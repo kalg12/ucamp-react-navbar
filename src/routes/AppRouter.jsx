@@ -8,7 +8,6 @@ import Navbar from '../components/Navbar'
 const AppRouter = () => {
   return (
     <>
-    
     <Router>
     <Navbar />
         <Routes>
